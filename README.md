@@ -1,5 +1,5 @@
 # Conky Configurations
-## a place to keep and share conky files as I learn to make them
+A place to keep and share conky files as I learn to make them.
 
 ## Bluscrn_simple_fontawesome_conky
 - This config requires FontAwesome
